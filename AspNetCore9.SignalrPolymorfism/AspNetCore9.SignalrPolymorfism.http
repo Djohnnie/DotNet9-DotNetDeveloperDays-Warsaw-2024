@@ -1,0 +1,6 @@
+@AspNetCore9.SignalrPolymorfism_HostAddress = http://localhost:5283
+
+GET {{AspNetCore9.SignalrPolymorfism_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

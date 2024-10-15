@@ -1,0 +1,6 @@
+@AspNetCore9.DeveloperExceptionPage_HostAddress = http://localhost:5145
+
+GET {{AspNetCore9.DeveloperExceptionPage_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
